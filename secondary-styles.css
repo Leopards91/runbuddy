@@ -1,0 +1,56 @@
+.hero {
+    background-position: bottom;
+    height: auto;
+    text-align: center;
+    margin-bottom: 40px;
+  }
+
+  .hero {
+    background-image: url("https://i0.wp.com/peopletechpartners.com/wp-content/uploads/2020/06/hero-bg.jpg");
+    background-size: cover;
+    background-position: bottom;
+    position: relative;
+    height: auto;
+    text-align: center;
+    margin-bottom: 40px;
+    width: 80%;
+    margin: center; 
+  }
+  .hero h2 {top: 0;
+    right: 80px;
+    bottom: 15px;
+    left: 80px;
+    font-weight: normal;
+    font-style: italic;
+    font-size: 42px;
+    border-bottom: 4px;
+    color: #fce138;
+}
+
+.secondary-content h3 {font-size: 25px;
+    width: 80%;
+    color: #024e76;
+    top: 20px;
+    bottom: 20px;
+    right: 0px;
+    left: 0px;
+}
+.secondary-content p {font-size: 16px;
+    line-height: 1.5;
+    top: 20px;
+    bottom: 20px;
+    right: 0px;
+    left: 0px;
+}
+.secondary-content ul {
+    top: 15px;
+    bottom: 15px;
+    right: 20px;
+    left: 20px;
+}
+.secondary-content li {
+    top: 10px;
+    bottom: 10px;
+    right: 0px;
+    left: 0px;
+}
